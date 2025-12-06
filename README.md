@@ -143,7 +143,7 @@ temple.html
 ![alt text](mandapan.png)
 ![alt text](railway.png)
 ![alt text](temple.png)
-![alt text](<Screenshot (52).png>)
+![alt text](<Screenshot (55).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
